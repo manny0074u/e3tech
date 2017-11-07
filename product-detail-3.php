@@ -92,29 +92,22 @@
             <!--end bar-->
         </div>
 
-        <section class="text-center imagebg" data-overlay="4">
-            <div class="background-image-holder background--bottom">
-                <img alt="background" src="img/a.jpg" />
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <h1>Our Services </h1>
-                    </div>
-                </div>
-                <!--end of row-->
-            </div>
-            <!--end of container-->
-        </section>
-
-        <section class="text-center height-50">
-                <div class="container pos-vertical-center">
+        <div class="main-container">
+            <section>
+                <div class="container">
                     <div class="row">
-                        <div class="col-sm-8">
-                            <h1>Full-service Design &amp; Development</h1>
-                            <p class="lead">
-                                From a team of passionate creators working side-by-side with our partners to deliver engaging digital and physical campaigns.
-                            </p>
+                        <div class="col-sm-12">
+                            <h1>Fradril Oil</h1>
+                            <ol class="breadcrumbs">
+                                <li>
+                                    <a href="index.html">Home</a>
+                                </li>
+                                <li>
+                                    <a href="portfolio.html">Portfolio</a>
+                                </li>
+                                <li>Fradril oil</li>
+                            </ol>
+                            <hr>
                         </div>
                     </div>
                     <!--end of row-->
@@ -122,57 +115,66 @@
                 <!--end of container-->
             </section>
             
-            <section class="switchable feature-large">
+            <section>
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-6">
-                            <img alt="Image" class="border--round" src="img/responsive_stats.gif" />
-                        </div>
-                        <div class="col-sm-6 col-md-5">
-                            <div class="mt--2">
-                                <h2>Web Design & Development</h2>
-                                <p class="lead">
-                                    E3 technologies is a leading web development and design service provider in Nigeria having a team of web professional´s who are aware about the needs of online marketing. We design the professional website and web application for your business by using the tailor made technologies. We are in the business of serving people with our spectacular web designing services.
-                                </p>
+                            <div class="boxed bg--secondary boxed--lg boxed--border">
+                                <h4>Project Information</h4>
+                                <div class="row">
+                                    <div class="col-sm-3 col-md-6 col-xs-6">
+                                        <ul>
+                                            <li>Client :</li>
+                                            <li>Type :</li>
+                                            <li>Date :</li>
+                                            <li>Duration</li>
+                                            <li>Location :</li>
+                                            <li>Link :</li>
+                                        </ul>
+                                    </div>
+                                    
+                                    
+                                    <div class="col-sm-9 col-md-6 col-xs-6">
+                                        <ul>
+                                            <li>Fradrill oil</li><!-- fradril spelling -->
+                                            <li>Web design</li>
+                                            <li>April 2017</li>
+                                            <li>2 weeks</li>
+                                            <li>Lagos</li>
+                                            <li><a href="http://fosl-ng.com" target="blak_" class="btn btn-info">View Site</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                               
+                                
                             </div>
                         </div>
-                    </div>
-                    <!--end of row-->
-                </div>
-                <!--end of container-->
-            </section>
-            <section class="switchable feature-large">
-                <div class="container">
-                    <div class="row">
                         <div class="col-sm-6">
-                            <img alt="Image" class="border--round" src="img/digital.gif" />
-                        </div>
-                        <div class="col-sm-6 col-md-5">
-                            <div class="mt--2">
-                                <h2>Digital Marketing</h2>
-                                <p class="lead">
-                                    At E3 technologies, we are passionate about all things digital and effective business results for you. Our expertise lies in applying advanced e-Marketing knowledge to complex business issues and deliver robust solution to create best online customer experience on your web properties.
-                                </p>
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    
+                                        <img alt="Thumb" src="img/4ten.png" />
+                                    
+                                </div>
+                                <div class="col-sm-6">
+                                    
+                                        <img alt="Thumb" src="img/41.png" />
+                                    
+                                </div>
+                            </div><br>
+                            <div class="row">
+                                <div class="col-sm-6 mt--1">
+                                    
+                                        <img alt="Thumb" src="img/42.png" />
+                                    
+                                </div>
+                                <div class="col-sm-6 mt--1">
+                                    
+                                        <img alt="Thumb" src="img/f2.png" />
+                                    
+                                </div>
                             </div>
-                        </div>
-                    </div>
-                    <!--end of row-->
-                </div>
-                <!--end of container-->
-            </section>
-            <section class="switchable feature-large">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-6">
-                            <img alt="Image" class="border--round" src="img/grpahics.gif" />
-                        </div>
-                        <div class="col-sm-6 col-md-5">
-                            <div class="mt--2">
-                                <h2>Graphic Design & Branding</h2>
-                                <p class="lead">
-                                    E3 technologies offers an eye catching and functionally superior graphic design solutions with credibility and expertise. Our endeavour is to provide clean, clear and unique designs while keeping the target market in mind. We believe in brand creation and emphasise on creating a great layout, color palette and using design elements that will bring your design dream to life
-                                </p>
-                            </div>
+                            <!--end of row-->
                         </div>
                     </div>
                     <!--end of row-->
@@ -180,35 +182,80 @@
                 <!--end of container-->
             </section>
             
-          <!--  <section class="space--xs imagebg" data-gradient-bg="#4876BD,#5448BD,#8F48BD,#BD48B1">
+            
+            <section class="text-center">
                 <div class="container">
                     <div class="row">
-                        <div class="cta cta--horizontal text-center-xs">
-                            <div class="col-sm-4">
-                                <h4>Build your site now</h4>
-                            </div>
-                            <div class="col-sm-5">
-                                <p class="lead">
-                                    Themeforest's most popular HTML page builder
-                                </p>
-                            </div>
-                            <div class="col-sm-3 text-right text-center-xs modal-instance block">
-                               <a class="btn modal-trigger" href="#">
-                                    <span class="btn__text">
-                                        Login
+                        <div class="col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
+                            <div class="cta">
+                                <h2>Ready to start your project?</h2>
+                                
+                                <div class="modal-instance ">
+                                <a class="btn modal-trigger btn--primary" href="#">
+                                    <span class="btn__text type--uppercase ">
+                                        Request Quote
                                     </span>
                                 </a>
+                                <div class="modal-container">
+                                    <div class="modal-content">
+                                        <div class="boxed boxed--lg">
+                                            <h2>Fill the form below</h2>
+                                            <hr class="short">
+                                            <form class="form-email" action="" data-success="Thanks for your enquiry, we'll be in touch shortly." data-error="Please fill in all fields correctly." data-recaptcha-sitekey="6LewhCIUAAAAACSwFvBDhgtTbw6EnW6e9dip8o2u" data-recaptcha-theme="light">
+                                    <div class="col-sm-6 col-xs-12">
+                                        <label>Your Name:</label>
+                                        <input type="text" name="name" class="validate-required" />
+                                    </div>
+                                    <div class="col-sm-6 col-xs-12">
+                                        <label>Email Address:</label>
+                                        <input type="email" name="email" class="validate-required validate-email" />
+                                    </div>
+                                     <div class="col-sm-6 col-xs-12">
+                                        <label>Phone:</label>
+                                        <input type="text" name="phone" class="validate-required" />
+                                    </div>
+                                    <div class="col-sm-6 col-xs-12">
+                                        <label>Service:</label>
+                                        <div class="input-select">
+    <select name="services">
+        <option selected="" value="Default">Select An Option</option>
+        <option value="Website Design / Development">Website Design / Development</option>
+        <option value="Graphics / Logo Design">Graphics / Logo Design</option>
+        <option value="Social Media / Digital Marketing">Social Media / Digital Marketing </option>
+    </select>
+</div>
+                                        
+                                    </div>
+                                    <div class="col-sm-12 col-xs-12">
+                                        <label>Message:</label>
+                                        <textarea rows="4" name="Message" class="validate-required"></textarea>
+                                    </div>
+                                    <div class="col-sm-5 col-md-4 col-xs-6">
+                                        <button type="submit" class="btn btn--primary type--uppercase">Send Enquiry</button>
+                                    </div>
+                                </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                               
                             </div>
                         </div>
                     </div>
-            
+                    <!--end of row-->
                 </div>
-                end of container
-            </section>-->
+                <!--end of container-->
+            </section>
+             <div class="col-sm-6">
+                           
+                            <!--end of modal instance-->
+            
+          
+            
+            
 
 
-
-          <footer class="space--sm footer-1 text-center-xs ">
+            <footer class="space--sm footer-1 text-center-xs ">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-6">
@@ -271,7 +318,6 @@
                 </div>
                 <!--end of container-->
             </footer>
-           
         </div>
         <!--<div class="loader"></div>-->
         <a class="back-to-top inner-link" href="#start" data-scroll-class="100vh:active">
