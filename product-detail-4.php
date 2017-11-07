@@ -91,192 +91,168 @@
             </nav>
             <!--end bar-->
         </div>
-        
-        <section class="text-center imagebg" data-overlay="4">
-                <div class="background-image-holder background--bottom">
-                    <img alt="background" src="img/a.jpg" />
-                </div>
+
+        <div class="main-container">
+            <section>
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-12">
-                            <h1>Portfolio</h1>
+                            <h1>Sanusi Ikeoluwa Grooming Prodigy (SIGP)</h1>
+                            <ol class="breadcrumbs">
+                                <li>
+                                    <a href="index.html">Home</a>
+                                </li>
+                                <li>
+                                    <a href="portfolio.html">Portfolio</a>
+                                </li>
+                                <li>Sanusi Ikeoluwa Grooming Prodigy (SIGP)</li>
+                            </ol>
+                            <hr>
                         </div>
                     </div>
                     <!--end of row-->
                 </div>
                 <!--end of container-->
             </section>
-        
-    
+            
             <section>
-                <div class="masonry masonry--gapless">
-                    <div class="masonry-filter-container text-center">
-                        <span>Category:</span>
-                        <div class="masonry-filter-holder">
-                            <div class="masonry__filters" data-filter-all-text="All Categories"></div>
-                        </div>
-                    </div>
-                    <div class="masonry__container bg--secondary">
-                        <div class="col-sm-4 col-xs-12 masonry__item" data-masonry-filter="web design">
-                            <div class="project-thumb hover-element height-40">
-                                <a href="product-detail-4.php">
-                                    <div class="hover-element__initial">
-                                        <div class="background-image-holder">
-                                            <img alt="background" src="img/ike1.PNG" />
-                                        </div>
-                                    </div>
-                                    <div class="hover-element__reveal" data-overlay="9">
-                                        <div class="project-thumb__title">
-                                            <h5>Fradril oil</h5><!-- fradril spelling-->
-                                            <span>Web design</span>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-
-                        <div class="col-sm-4 col-xs-12 masonry__item" data-masonry-filter="web design">
-                            <div class="project-thumb hover-element height-40">
-                                <a href="product-detail.html">
-                                    <div class="hover-element__initial">
-                                        <div class="background-image-holder">
-                                            <img alt="background" src="img/fradril.PNG" />
-                                        </div>
-                                    </div>
-                                    <div class="hover-element__reveal" data-overlay="9">
-                                        <div class="project-thumb__title">
-                                            <h5>Fradril oil</h5><!-- fradril spelling-->
-                                            <span>Web design</span>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-sm-4 col-xs-12 masonry__item" data-masonry-filter="web design">
-                            <div class="project-thumb hover-element height-40">
-                                <a href="product-detail-2.html">
-                                    <div class="hover-element__initial">
-                                        <div class="background-image-holder">
-                                            <img alt="background" src="img/food.PNG" />
-                                        </div>
-                                    </div>
-                                    <div class="hover-element__reveal" data-overlay="9">
-                                        <div class="project-thumb__title">
-                                            <h5>Iya Ayi</h5>
-                                            <span>Webdesign & Branding</span>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-sm-4 col-xs-12 masonry__item" data-masonry-filter="web design">
-                            <div class="project-thumb hover-element height-40">
-                                <a href="product-detail-3.php">
-                                    <div class="hover-element__initial">
-                                        <div class="background-image-holder">
-                                            <img alt="background" src="img/4ten.png" />
-                                        </div>
-                                    </div>
-                                    <div class="hover-element__reveal" data-overlay="9">
-                                        <div class="project-thumb__title">
-                                            <h5>4Ten Solutions</h5>
-                                            <span>Web Design</span>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-sm-4 col-xs-12 masonry__item" data-masonry-filter="branding">
-                            <div class="project-thumb hover-element height-40">
-                                <a href="eck.html">
-                                    <div class="hover-element__initial">
-                                        <div class="background-image-holder">
-                                            <img alt="background" src="img/client/eeck.png" />
-                                        </div>
-                                    </div>
-                                    <div class="hover-element__reveal" data-overlay="9">
-                                        <div class="project-thumb__title">
-                                            <h5>Eck Electricals</h5>
-                                            <span>Branding</span>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-sm-4 col-xs-12 masonry__item" data-masonry-filter="web design">
-                            <div class="project-thumb hover-element height-40">
-                                <a href="#">
-                                    <div class="hover-element__initial">
-                                        <div class="background-image-holder">
-                                            <img alt="background" src="img/madu.png" />
-                                        </div>
-                                    </div>
-                                    <div class="hover-element__reveal" data-overlay="9">
-                                        <div class="project-thumb__title">
-                                            <h5>MaduTech </h5>
-                                            <span>Web design</span>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-sm-4 col-xs-12 masonry__item" data-masonry-filter="Digital">
-                            <div class="project-thumb hover-element height-40">
-                                <a href="#">
-                                    <div class="hover-element__initial">
-                                        <div class="background-image-holder">
-                                            <img alt="background" src="img/work-5.jpg" />
-                                        </div>
-                                    </div>
-                                    <div class="hover-element__reveal" data-overlay="9">
-                                        <div class="project-thumb__title">
-                                            <h5>Nuaca</h5>
-                                            <span>Digital Presence</span>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                        <div class="page">
-                            <div class="col-xs-6">
-                                <a class="type--fine-print" href="#">&laquo; Older Posts</a>
-                            </div>
-                            <div class="col-xs-6 text-right">
-                                <a class="type--fine-print" href="#">Newer Posts &raquo;</a>
-                            </div>
-                        </div>
-                    
-                    <!--end of masonry__container-->
-                </div>
-                <!--end of masonry-->
-            </section>    
-
-            <section class="space--xs imagebg" data-gradient-bg="#4876BD,#5448BD,#8F48BD,#BD48B1">
                 <div class="container">
                     <div class="row">
-                        <div class="cta cta--horizontal text-center-xs">
-                            <div class="col-sm-4">
-                                <h4>Build your site now</h4>
+                        <div class="col-sm-6">
+                            <div class="boxed bg--secondary boxed--lg boxed--border">
+                                <h4>Project Information</h4>
+                                <div class="row">
+                                    <div class="col-sm-3 col-md-6 col-xs-6">
+                                        <ul>
+                                            <li>Client :</li>
+                                            <li>Type :</li>
+                                            <li>Date :</li>
+                                            <li>Duration</li>
+                                            <li>Location :</li>
+                                            
+                                        </ul>
+                                    </div>
+                                    
+                                    
+                                    <div class="col-sm-9 col-md-6 col-xs-6">
+                                        <ul>
+                                            <li>SIGP</li><!-- fradril spelling -->
+                                            <li>Web Application</li>
+                                            <li>October 2017</li>
+                                            <li>4 weeks</li>
+                                            <li>Lagos</li>
+                                            <li><a href="http://sigprodigy.com" target="blak_" class="btn btn-info">View Site</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                               
+                                
                             </div>
-                            <div class="col-sm-5">
-                                <p class="lead">
-                                    Themeforest's most popular HTML page builder
-                                </p>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    
+                                        <img alt="Thumb" src="img/ike1.png" />
+                                    
+                                </div>
+                                <div class="col-sm-6">
+                                    
+                                        <img alt="Thumb" src="img/ike2.png" />
+                                    
+                                </div>
+                            </div><br>
+                            <div class="row">
+                                <div class="col-sm-6 mt--1">
+                                    
+                                        <img alt="Thumb" src="img/ike3.png" />
+                                    
+                                </div>
+                                <div class="col-sm-6 mt--1">
+                                    
+                                        <img alt="Thumb" src="img/ike4.png" />
+                                    
+                                </div>
                             </div>
-                            <div class="col-sm-3 text-right text-center-xs">
-                                <a class="btn btn--primary type--uppercase" href="#purhcase-template">
-                                    <span class="btn__text">
-                                        Purchase Stack
+                            <!--end of row-->
+                        </div>
+                    </div>
+                    <!--end of row-->
+                </div>
+                <!--end of container-->
+            </section>
+            
+            
+            <section class="text-center">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
+                            <div class="cta">
+                                <h2>Ready to start your project?</h2>
+                                
+                                <div class="modal-instance ">
+                                <a class="btn modal-trigger btn--primary" href="#">
+                                    <span class="btn__text type--uppercase ">
+                                        Request Quote
                                     </span>
                                 </a>
+                                <div class="modal-container">
+                                    <div class="modal-content">
+                                        <div class="boxed boxed--lg">
+                                            <h2>Fill the form below</h2>
+                                            <hr class="short">
+                                            <form class="form-email" action="" data-success="Thanks for your enquiry, we'll be in touch shortly." data-error="Please fill in all fields correctly." data-recaptcha-sitekey="6LewhCIUAAAAACSwFvBDhgtTbw6EnW6e9dip8o2u" data-recaptcha-theme="light">
+                                    <div class="col-sm-6 col-xs-12">
+                                        <label>Your Name:</label>
+                                        <input type="text" name="name" class="validate-required" />
+                                    </div>
+                                    <div class="col-sm-6 col-xs-12">
+                                        <label>Email Address:</label>
+                                        <input type="email" name="email" class="validate-required validate-email" />
+                                    </div>
+                                     <div class="col-sm-6 col-xs-12">
+                                        <label>Phone:</label>
+                                        <input type="text" name="phone" class="validate-required" />
+                                    </div>
+                                    <div class="col-sm-6 col-xs-12">
+                                        <label>Service:</label>
+                                        <div class="input-select">
+    <select name="services">
+        <option selected="" value="Default">Select An Option</option>
+        <option value="Website Design / Development">Website Design / Development</option>
+        <option value="Graphics / Logo Design">Graphics / Logo Design</option>
+        <option value="Social Media / Digital Marketing">Social Media / Digital Marketing </option>
+    </select>
+</div>
+                                        
+                                    </div>
+                                    <div class="col-sm-12 col-xs-12">
+                                        <label>Message:</label>
+                                        <textarea rows="4" name="Message" class="validate-required"></textarea>
+                                    </div>
+                                    <div class="col-sm-5 col-md-4 col-xs-6">
+                                        <button type="submit" class="btn btn--primary type--uppercase">Send Enquiry</button>
+                                    </div>
+                                </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                               
                             </div>
                         </div>
                     </div>
                     <!--end of row-->
                 </div>
                 <!--end of container-->
-            </section>        
+            </section>
+             <div class="col-sm-6">
+                           
+                            <!--end of modal instance-->
+            
+          
+            
+            
 
 
             <footer class="space--sm footer-1 text-center-xs ">
@@ -325,17 +301,15 @@
                                     </a>
                                 </li>
                             </ul>
-                            <a href="contact.html" class="btn type--uppercase">
-                                <span class="btn__text">
-                                    Contact Us
-                                </span>
+                            <a href="#">
+                                <!-- a btn was here -->
                             </a>
                         </div>
                     </div>
                     <!--end of row-->
                     <div class="row">
                         <div class="col-sm-12">
-                            <img alt="Image" class="logo" src="img/e33.jpg" width="120" height="100"/>
+                           <!-- <img alt="Image" class="logo" src="img/newlogo2.jpg" width="120" height="100"/>-->
                             <span class="type--fine-print">&copy;
                                 <span class="update-year"></span> E3 Technologies.</span>
                         </div>
@@ -344,7 +318,6 @@
                 </div>
                 <!--end of container-->
             </footer>
-           
         </div>
         <!--<div class="loader"></div>-->
         <a class="back-to-top inner-link" href="#start" data-scroll-class="100vh:active">

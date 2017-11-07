@@ -97,7 +97,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-12">
-                            <h1>Fradril Oil</h1>
+                            <h1>4ten Solutions</h1>
                             <ol class="breadcrumbs">
                                 <li>
                                     <a href="index.html">Home</a>
@@ -136,12 +136,12 @@
                                     
                                     <div class="col-sm-9 col-md-6 col-xs-6">
                                         <ul>
-                                            <li>Fradrill oil</li><!-- fradril spelling -->
+                                            <li>4Ten Solutions</li><!-- fradril spelling -->
                                             <li>Web design</li>
                                             <li>April 2017</li>
                                             <li>2 weeks</li>
                                             <li>Lagos</li>
-                                            <li><a href="http://fosl-ng.com" target="blak_" class="btn btn-info">View Site</a></li>
+                                            <li><a href="http://4tensolutions.com" target="blak_" class="btn btn-info">View Site</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -170,7 +170,7 @@
                                 </div>
                                 <div class="col-sm-6 mt--1">
                                     
-                                        <img alt="Thumb" src="img/f2.png" />
+                                        <img alt="Thumb" src="img/43.png" />
                                     
                                 </div>
                             </div>
